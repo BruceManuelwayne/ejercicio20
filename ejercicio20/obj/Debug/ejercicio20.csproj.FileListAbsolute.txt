@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\ejercicio20\ejercicio20\bin\Debug\ejercicio20.exe.config
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\ejercicio20\ejercicio20\bin\Debug\ejercicio20.exe
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\ejercicio20\ejercicio20\bin\Debug\ejercicio20.pdb
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\ejercicio20\ejercicio20\obj\Debug\ejercicio20.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\ejercicio20\ejercicio20\obj\Debug\ejercicio20.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\ejercicio20\ejercicio20\obj\Debug\ejercicio20.exe
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\ejercicio20\ejercicio20\obj\Debug\ejercicio20.pdb
